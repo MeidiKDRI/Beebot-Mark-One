@@ -12,3 +12,6 @@ It uses a little code who find your IP address, and with an API it can find your
 
 ## Sentiment Analysis
 In this project, I have used ```python TextBlob``` to analyse sentiments.
+
+## Beebot-Flask
+You can find an example of a web interactive interface of Beebot chatbot in the flask directory.
